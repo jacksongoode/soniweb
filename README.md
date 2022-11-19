@@ -7,3 +7,6 @@ See the blog posts [here](https://jacksongoo.de/soniweb/) and [here](https://jac
 
 ### Cited in:
 Beate Ochsner (2021) Sonification of web tracking, Jasmine Guffond: Listening Back, Sound Studies, DOI: [10.1080/20551940.2021.1875292](https://doi.org/10.1080/20551940.2021.1875292) 
+
+### Similar projects:
+[Sound of the Earth](https://soundoftheearth.org/) - Google Arts and Culture
